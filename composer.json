@@ -1,0 +1,20 @@
+{
+    "name": "turnfront/file-importer",
+    "description": "",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Turnfront\\FileImporter": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
